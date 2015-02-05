@@ -1,5 +1,7 @@
 # EstebanProyects
 
+Para Streaming
+
 1.- Ejecutar la aplicación junto con la contraseña:
 	 node Stream-server.js mipassword
 	 
